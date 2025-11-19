@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 ¡Hola!
 
-<!--
-**W4llker/W4llker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Marcelo, profesional del área tecnológica con experiencia en gestión de proyectos, biometría y desarrollo de software.
 
-Here are some ideas to get you started:
+Combino conocimientos en informática, electrónica y seguridad industrial para diseñar e implementar soluciones que mejoran procesos y potencian la operación de empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 PERFIL PROFESIONAL 
+
+- 👨‍💻 **Ingeniero Civil en Informática**  
+- 📱 **Desarrollador Móvil**  
+- 📈 **Gestor de Proyectos**  
+- ⚙️ Enfoque en optimización de procesos, digitalización e IoT  
+- 🔍 Orientado a resultados y a la creación de soluciones escalables  
+
+---
+
+## 🛠️ HABILIDADES TECNICAS
+
+**Lenguajes:**  
+JavaScript · Python · Flutter · Java · Kotlin  
+
+**Frameworks y Librerías:**  
+Angular · React · Node.js · Express · NestJS · Ionic  
+
+**Bases de Datos:**  
+MySQL · MongoDB · PostgreSQL  
+
+**Herramientas y Otros:**  
+Git · Docker · Kubernetes  
+
+---
+
+## 💼 EXPERIENCIA
+
+- 🤝 **Socio y Gestor de Proyectos — Startup UMABYTE**  
+- 🟦 **Especialista en Biometría — SUPREMA / DPW San Antonio**  
+- ⚡ **Especialista TI y Metodologías Ágiles**  
+
+Mi trabajo se centra en generar soluciones eficientes, confiables y orientadas al usuario. Disfruto combinar tecnología, gestión y visión estratégica para llevar proyectos desde su concepto hasta su implementación exitosa.
+
+LinkedIn: [Marcelo Báez](https://www.linkedin.com/in/marcelo-baez-cerda/)

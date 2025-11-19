@@ -22,7 +22,7 @@ Combino conocimientos en informática, electrónica y seguridad industrial para 
 JavaScript · Python · Flutter · Java · Kotlin  
 
 **Frameworks y Librerías:**  
-Angular · React · Node.js · Express · NestJS · Ionic  
+Angular · React · Node.js 
 
 **Bases de Datos:**  
 MySQL · MongoDB · PostgreSQL  

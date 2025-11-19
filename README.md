@@ -9,10 +9,10 @@ Combino conocimientos en informática, electrónica y seguridad industrial para 
 ## 🧩 PERFIL PROFESIONAL 
 
 - 👨‍💻 **Ingeniero Civil en Informática**  
-- 📱 **Desarrollador Móvil**  
 - 📈 **Gestor de Proyectos**  
 - ⚙️ Enfoque en optimización de procesos, digitalización e IoT  
-- 🔍 Orientado a resultados y a la creación de soluciones escalables  
+- 🔍 Orientado a resultados y a la creación de soluciones escalables
+- 📱 **Desarrollador Móvil**  
 
 ---
 

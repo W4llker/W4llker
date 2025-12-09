@@ -28,7 +28,7 @@ Angular · React · Node.js
 MySQL · MongoDB · PostgreSQL  
 
 **Herramientas y Otros:**  
-Git · Docker · Kubernetes  
+Git · Docker · Jira
 
 ---
 

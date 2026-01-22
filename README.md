@@ -37,7 +37,7 @@ Git · Docker · Jira
 
 ## 💼 EXPERIENCIA
 
-- 🤝 **Socio y Gestor de Proyectos — Startup UMABYTE**  
+- 🤝 **Socio y Gestor de Proyectos — Startup VerdeDigital/UMABYTE**  
 - 🟦 **Especialista en Biometría — SUPREMA / DPW San Antonio**  
 - ⚡ **Especialista TI y Metodologías Ágiles**  
 

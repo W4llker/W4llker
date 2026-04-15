@@ -1,6 +1,6 @@
 👋 ¡Hola!
 
-Soy Marcelo, profesional del área tecnológica con experiencia en gestión de proyectos, biometría y desarrollo de software.
+Soy Marcelo, profesional del área tecnológica con experiencia en gestión de proyectos, biometría y desarrollo de software, Co-Founder de VerdeDigital.CL
 
 Combino conocimientos en informática, electrónica y seguridad industrial para diseñar e implementar soluciones que mejoran procesos y potencian la operación de empresas.
 
